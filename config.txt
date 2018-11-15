@@ -1,3 +1,3 @@
-token=توكن بوتك
-owner=ايدي الي بيتحكم ب البوت
-prefix=البرفكس
+token=NTEyMjc1NzE3MjQxOTYyNTIy.Ds8Y3g.wTyGYw_55gIs0DdWkzGqQADTBqQ
+owner=505811134528356352
+prefix=A
